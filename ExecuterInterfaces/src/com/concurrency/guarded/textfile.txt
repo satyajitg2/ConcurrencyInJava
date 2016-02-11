@@ -1,0 +1,6 @@
+This is a file 
+content that is to 
+be read from a
+single threaded
+producer consumer problem
+via a FileInputReader
